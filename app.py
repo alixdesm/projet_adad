@@ -356,7 +356,7 @@ col_carte, col_info = st.columns([3, 1])
 
 with col_carte:
     st.info("Survolez et cliquez sur les cercles pour voir les détails de chaque destination")
-    st_folium(m, width=900, height=700)
+    st_folium(m, width=900, height=700, returned_objects=[])
     st.markdown("### Temps de trajet:")
     col1, col2, col3, col4, col5, col6 = st.columns(6)
     with col1:
