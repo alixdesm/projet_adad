@@ -516,6 +516,7 @@ st.markdown(
     \- **Culture & patrimoine**: Nous vous proposons alors des destinations avec au moins un établissement dans cette catégorie parmi des sites de mémoire, des lieux de visite, des caveaux et points de vente, des visites d'entreprise, des commerces, des écomusées, des visites guidées, des maisons d'écrivain et des sites de préhistoire.
 
     \- **Restauration**: Nous vous proposons alors des destinations avec au moins un établissement dans cette catégorie parmi des restaurants, des restaurants de plage, des cafés, bars et brasseries. 
+    
     \- **Hébergement**: Nous vous proposons alors des destinations avec au moins un établissement dans cette catégorie parmi des hôtels, des hôtels-restaurants, des campings, des chambres d'hôtes, des villages de vacances, des résidences de tourisme et hébergements collectifs.
 
     \- **Services touristiques**: Nous vous proposons alors des destinations avec au moins un office de tourisme.
@@ -527,7 +528,7 @@ st.markdown("---")
 
 st.markdown(
     """
-    *Note: cette page a été mise au point par des étudiants dans le cadre d'un projet.*
+    *Note: projet Filière Métier ADAD (Aide à la Décision Analyse de Données).*
 
     """
 )
